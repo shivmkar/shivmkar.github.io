@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Projects
-excerpt: "Projects"
+excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
-comments: true
-image: 
-  feature: rooftop_view.jpg
+image:
+  feature: main_img.jpeg
 ---
 
 {% include _toc.html %}
 
 ## Anime Colourization
+huggingface link 
 
 ## Kaggle projects
+kaggle notebooks
