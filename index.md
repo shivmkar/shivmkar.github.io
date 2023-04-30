@@ -9,12 +9,10 @@ image:
 
 {% include _toc.html %}
 
-Total hits =
 
 My name is Nikhil Mudhalwadkar. This is a test page!
 
-
-[![Hits](https://hits.sh/nmud19.github.io.svg)](https://hits.sh/nmud19.github.io/)
+I've been viewed [![Hits](https://hits.sh/nmud19.github.io.svg?style=for-the-badge&label=Views&extraCount=100)](https://hits.sh/nmud19.github.io/) times!
 
 ## News
 
