@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Nikhil Mudhalwadkar
+  name: Shivani Mudhalwadkar
   avatar: test_img.jpg
-  bio: "Machine Learning Engineer"
+  bio: "LLM Tax Law from Uppsala UNiversity"
   email: nmud19temp@gmail.com
   disqus-shortname: 
   google:
@@ -38,11 +38,11 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: nmud19
-  stackoverflow: https://stackoverflow.com/users/4733010/nick-m
+  github: shivmkar
+  stackoverflow: 
   linkedin:
   instagram: 
-  twitter: nmud19
+  twitter: 
   xing: #username
   lastfm: #username
   tumblr: #username

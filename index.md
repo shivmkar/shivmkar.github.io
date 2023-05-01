@@ -10,7 +10,7 @@ image:
 {% include _toc.html %}
 
 
-My name is Nikhil Mudhalwadkar. This is a test page!
+Hello there! I am Shivani. I have a LLM in tax law from Uppsala University. My interests are compliance and tax law. However, I would love to talk about all the general aspects of law to learn and grow!
 
 I've been viewed [![Hits](https://hits.sh/nmud19.github.io.svg?style=for-the-badge&label=Views&extraCount=100)](https://hits.sh/nmud19.github.io/) times!
 
